@@ -13,7 +13,7 @@ python 3: python3 setup.py build
 
 
 # Using the module
-import neoscryp<br/>
+import neoscrypt<br/>
 
 In python 2 input data should be in string: <br/>
 data = '00'.decode('hex') <br/>
